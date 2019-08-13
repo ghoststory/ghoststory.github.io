@@ -1,0 +1,2 @@
+(window.webpackJsonpghoststory=window.webpackJsonpghoststory||[]).push([[0],[,,,function(n,t,e){n.exports=e(4)},function(n,t,e){"use strict";e.r(t);var o=e(0),r=e.n(o),s=e(2);e.n(s).a.render(r.a.createElement("h1",null,"Hi!"),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.d63c19e1.chunk.js.map
